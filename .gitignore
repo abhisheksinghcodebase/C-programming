@@ -1,0 +1,12 @@
+./build
+./Debug
+./Release
+./.vscode
+./.vs
+./.idea
+./.git
+./.github
+./.gitignore
+./.gitattributes
+./.editorconfig
+./.clang-format
